@@ -1,2 +1,2 @@
--conic_bg.css was supposed to be a conic gradient but turns out to be a 2 color animation transition
+-conic_bg.css was supposed to be a conic gradient but turns out to be a 2 color animation transition\
 -rotate.css is a image rotator modified from https://flaviocopes.com/rotate-image/
